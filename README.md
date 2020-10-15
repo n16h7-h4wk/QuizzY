@@ -1,2 +1,2 @@
 # QuizzY
-Cricket MCQ(Multiple Choice Questions) quiz.
+Cricket MCQ quiz.
